@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+        <title> perfumy </title>
+        <link rel="stylesheet" href="style.css2">
+    </head>
+    <body>
+        <div class="header">
+            <nav>
+                <h1> perfumy</h1>
+                <ul>
+                    <li>Home |</li>
+                    <li>Products |</li>
+                    <li>About |</li>
+                    <li>Contact |</li>
+                </ul>
+            </nav>
+        </div>
+
+        <div class="searchbar">
+            <input placeholder="Search">
+        </div>
+
+        <div class="Products">
+            <div class="box"> 
+                <img src="download.jpg">
+                <p> Lorem ipsum dolor sit amet,
+                consectetur adipisicing elit. Consectetur atque nemo ex consequuntur
+                  enim molestiae officia earum quae quasi quisquam.</p></div>
+                  <div class="box">
+                    <img src="fogg.jpg">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                         Voluptas corporis amet nemo minima explicabo nihil alias aspernatur natus dolorem officiis!</p>
+                  </div>
+                  <div class="box">
+                    <img src="OIP.jpg">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                         Enim porro cum nihil, fugiat distinctio dolore quo numquam ducimus. Architecto, exercitationem?</p>
+                  </div>
+        </div>
+        <div class="Aboutus">
+            <h1 class="apple"> About us</h1>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima voluptatibus aliquid at necessitatibus dolorum ullam eligendi molestiae nihil illum exercitationem dolores, deserunt amet qui ut voluptate repellat quidem nobis maiores vero unde deleniti corporis facilis cumque. Aperiam illo nobis quae natus eaque facilis fugiat eos laudantium quibusdam est distinctio sed iure provident nesciunt voluptates cum nulla inventore, reprehenderit ullam vitae? Cum hic temporibus, alias blanditiis sit saepe cupiditate totam dolor a laborum debitis et eaque enim quod vitae fuga obcaecati vero ipsum delectus minus doloribus odio iusto ab? Alias expedita excepturi aspernatur modi praesentium maiores id veritatis voluptatibus commodi illum vitae eaque impedit perferendis sint eveniet placeat, rerum facilis, architecto hic fugiat maxime unde labore! Voluptates quasi commodi id, fugiat corrupti cupiditate recusandae explicabo ipsum rem delectus veritatis tempora rerum magni esse a soluta est quod! Ea laudantium ducimus explicabo excepturi ex iure non, laboriosam quasi molestiae expedita velit pariatur aperiam nisi assumenda nihil amet mollitia deserunt est culpa repellendus? Illum at mollitia itaque suscipit harum ducimus? Laudantium impedit consequuntur explicabo! Soluta ducimus, tenetur, quis sunt velit dignissimos blanditiis, ab exercitationem molestiae odit facere rerum sed maxime nostrum natus incidunt cupiditate? Similique modi perferendis adipisci cupiditate quaerat! Sunt earum et inventore possimus nulla quos deserunt praesentium sit animi dolor modi dolorem totam quam, corporis dolores ullam sapiente. Molestiae alias, sit similique voluptatum sint sequi, veritatis tempora fuga dolor consectetur ratione reiciendis accusamus dolore vero voluptas aperiam nam iusto id officiis quidem suscipit consequatur iste maxime? Tempore vel aspernatur saepe ducimus quisquam adipisci quibusdam impedit repellat. Voluptatum molestiae consequatur totam illum commodi sed omnis voluptatibus neque eum! Saepe iste asperiores perspiciatis praesentium odio quas aperiam, deserunt vel consectetur doloremque. Voluptatem repellendus officia, dolorem sint molestiae doloribus reprehenderit voluptas, ex eius, consequuntur ducimus nisi officiis? Voluptas corporis repellendus consectetur ullam, veritatis culpa.</p>
+
+        </div>
+        <div class="content">
+            <div class="orange">
+            <h1> Contact </h1>
+            <h2> +918070605030</h2>
+            <h2> perfumy@gmail.com </h2>
+            </div>
+            <p style="margin-top: 40px; font-size: 20px;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum sit doloremque ipsum temporibus. Est dolore iusto, perspiciatis possimus ut enim debitis voluptatibus quae nihil atque quos porro, repellat velit ad esse? Doloribus quo, asperiores id exercitationem explicabo ea quidem rem adipisci labore hic dolorum sequi quod voluptas velit in, ipsa earum dolore perferendis eius aliquid ullam iusto, corporis ex laudantium. Eligendi, rerum deleniti? Deserunt, sapiente. Quisquam, veritatis debitis. Minus perferendis molestiae eligendi corporis pariatur doloribus voluptatem porro fuga totam, aliquam nostrum doloremque, nisi ipsa voluptate nobis soluta quibusdam corrupti eaque culpa iste sed dolores. Quia fugit nisi quos obcaecati neque?</p>
+        </div>
+    </body>
+</html>
